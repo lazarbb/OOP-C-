@@ -1,0 +1,11 @@
+﻿  Sourceg.c
+C:\Users\lazar\source\repos\Project2\Sourceg.c(152,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'time_t'
+C:\Users\lazar\source\repos\Project2\Sourceg.c(152,9): message : consider using '%lld' in the format string
+C:\Users\lazar\source\repos\Project2\Sourceg.c(152,9): message : consider using '%I64d' in the format string
+C:\Users\lazar\source\repos\Project2\Sourceg.c(156,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'time_t'
+C:\Users\lazar\source\repos\Project2\Sourceg.c(156,9): message : consider using '%lld' in the format string
+C:\Users\lazar\source\repos\Project2\Sourceg.c(156,9): message : consider using '%I64d' in the format string
+C:\Users\lazar\source\repos\Project2\Sourceg.c(160,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'time_t'
+C:\Users\lazar\source\repos\Project2\Sourceg.c(160,9): message : consider using '%lld' in the format string
+C:\Users\lazar\source\repos\Project2\Sourceg.c(160,9): message : consider using '%I64d' in the format string
+  Project2.vcxproj -> C:\Users\lazar\source\repos\Project2\Debug\Project2.exe

@@ -1,0 +1,13 @@
+C:\Users\lazar\source\repos\LV1-ZAD2\obj\Debug\netcoreapp3.1\LV1-ZAD2.csprojAssemblyReference.cache
+C:\Users\lazar\source\repos\LV1-ZAD2\obj\Debug\netcoreapp3.1\LV1-ZAD2.AssemblyInfoInputs.cache
+C:\Users\lazar\source\repos\LV1-ZAD2\obj\Debug\netcoreapp3.1\LV1-ZAD2.AssemblyInfo.cs
+C:\Users\lazar\source\repos\LV1-ZAD2\obj\Debug\netcoreapp3.1\LV1-ZAD2.csproj.CoreCompileInputs.cache
+C:\Users\lazar\source\repos\LV1-ZAD2\bin\Debug\netcoreapp3.1\LV1-ZAD2.exe
+C:\Users\lazar\source\repos\LV1-ZAD2\bin\Debug\netcoreapp3.1\LV1-ZAD2.deps.json
+C:\Users\lazar\source\repos\LV1-ZAD2\bin\Debug\netcoreapp3.1\LV1-ZAD2.runtimeconfig.json
+C:\Users\lazar\source\repos\LV1-ZAD2\bin\Debug\netcoreapp3.1\LV1-ZAD2.runtimeconfig.dev.json
+C:\Users\lazar\source\repos\LV1-ZAD2\bin\Debug\netcoreapp3.1\LV1-ZAD2.dll
+C:\Users\lazar\source\repos\LV1-ZAD2\bin\Debug\netcoreapp3.1\LV1-ZAD2.pdb
+C:\Users\lazar\source\repos\LV1-ZAD2\obj\Debug\netcoreapp3.1\LV1-ZAD2.dll
+C:\Users\lazar\source\repos\LV1-ZAD2\obj\Debug\netcoreapp3.1\LV1-ZAD2.pdb
+C:\Users\lazar\source\repos\LV1-ZAD2\obj\Debug\netcoreapp3.1\LV1-ZAD2.genruntimeconfig.cache

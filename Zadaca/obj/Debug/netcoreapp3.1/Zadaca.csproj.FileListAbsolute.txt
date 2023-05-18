@@ -1,0 +1,13 @@
+C:\Users\lazar\source\repos\Zadaca\obj\Debug\netcoreapp3.1\Zadaca.csprojAssemblyReference.cache
+C:\Users\lazar\source\repos\Zadaca\obj\Debug\netcoreapp3.1\Zadaca.AssemblyInfoInputs.cache
+C:\Users\lazar\source\repos\Zadaca\obj\Debug\netcoreapp3.1\Zadaca.AssemblyInfo.cs
+C:\Users\lazar\source\repos\Zadaca\obj\Debug\netcoreapp3.1\Zadaca.csproj.CoreCompileInputs.cache
+C:\Users\lazar\source\repos\Zadaca\bin\Debug\netcoreapp3.1\Zadaca.exe
+C:\Users\lazar\source\repos\Zadaca\bin\Debug\netcoreapp3.1\Zadaca.deps.json
+C:\Users\lazar\source\repos\Zadaca\bin\Debug\netcoreapp3.1\Zadaca.runtimeconfig.json
+C:\Users\lazar\source\repos\Zadaca\bin\Debug\netcoreapp3.1\Zadaca.runtimeconfig.dev.json
+C:\Users\lazar\source\repos\Zadaca\bin\Debug\netcoreapp3.1\Zadaca.dll
+C:\Users\lazar\source\repos\Zadaca\bin\Debug\netcoreapp3.1\Zadaca.pdb
+C:\Users\lazar\source\repos\Zadaca\obj\Debug\netcoreapp3.1\Zadaca.dll
+C:\Users\lazar\source\repos\Zadaca\obj\Debug\netcoreapp3.1\Zadaca.pdb
+C:\Users\lazar\source\repos\Zadaca\obj\Debug\netcoreapp3.1\Zadaca.genruntimeconfig.cache

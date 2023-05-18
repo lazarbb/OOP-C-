@@ -1,0 +1,13 @@
+C:\Users\lazar\source\repos\vjrzbanjac\bin\Debug\netcoreapp3.1\vjrzbanjac.exe
+C:\Users\lazar\source\repos\vjrzbanjac\bin\Debug\netcoreapp3.1\vjrzbanjac.deps.json
+C:\Users\lazar\source\repos\vjrzbanjac\bin\Debug\netcoreapp3.1\vjrzbanjac.runtimeconfig.json
+C:\Users\lazar\source\repos\vjrzbanjac\bin\Debug\netcoreapp3.1\vjrzbanjac.runtimeconfig.dev.json
+C:\Users\lazar\source\repos\vjrzbanjac\bin\Debug\netcoreapp3.1\vjrzbanjac.dll
+C:\Users\lazar\source\repos\vjrzbanjac\bin\Debug\netcoreapp3.1\vjrzbanjac.pdb
+C:\Users\lazar\source\repos\vjrzbanjac\obj\Debug\netcoreapp3.1\vjrzbanjac.csprojAssemblyReference.cache
+C:\Users\lazar\source\repos\vjrzbanjac\obj\Debug\netcoreapp3.1\vjrzbanjac.AssemblyInfoInputs.cache
+C:\Users\lazar\source\repos\vjrzbanjac\obj\Debug\netcoreapp3.1\vjrzbanjac.AssemblyInfo.cs
+C:\Users\lazar\source\repos\vjrzbanjac\obj\Debug\netcoreapp3.1\vjrzbanjac.csproj.CoreCompileInputs.cache
+C:\Users\lazar\source\repos\vjrzbanjac\obj\Debug\netcoreapp3.1\vjrzbanjac.dll
+C:\Users\lazar\source\repos\vjrzbanjac\obj\Debug\netcoreapp3.1\vjrzbanjac.pdb
+C:\Users\lazar\source\repos\vjrzbanjac\obj\Debug\netcoreapp3.1\vjrzbanjac.genruntimeconfig.cache

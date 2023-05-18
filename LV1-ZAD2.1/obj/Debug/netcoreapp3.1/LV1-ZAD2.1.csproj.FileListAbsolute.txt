@@ -1,0 +1,4 @@
+C:\Users\lazar\source\repos\LV1-ZAD2.1\obj\Debug\netcoreapp3.1\LV1-ZAD2.1.csprojAssemblyReference.cache
+C:\Users\lazar\source\repos\LV1-ZAD2.1\obj\Debug\netcoreapp3.1\LV1-ZAD2.1.AssemblyInfoInputs.cache
+C:\Users\lazar\source\repos\LV1-ZAD2.1\obj\Debug\netcoreapp3.1\LV1-ZAD2.1.AssemblyInfo.cs
+C:\Users\lazar\source\repos\LV1-ZAD2.1\obj\Debug\netcoreapp3.1\LV1-ZAD2.1.csproj.CoreCompileInputs.cache

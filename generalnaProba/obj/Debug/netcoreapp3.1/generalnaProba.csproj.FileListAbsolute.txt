@@ -1,0 +1,13 @@
+C:\Users\lazar\source\repos\generalnaProba\bin\Debug\netcoreapp3.1\generalnaProba.exe
+C:\Users\lazar\source\repos\generalnaProba\bin\Debug\netcoreapp3.1\generalnaProba.deps.json
+C:\Users\lazar\source\repos\generalnaProba\bin\Debug\netcoreapp3.1\generalnaProba.runtimeconfig.json
+C:\Users\lazar\source\repos\generalnaProba\bin\Debug\netcoreapp3.1\generalnaProba.runtimeconfig.dev.json
+C:\Users\lazar\source\repos\generalnaProba\bin\Debug\netcoreapp3.1\generalnaProba.dll
+C:\Users\lazar\source\repos\generalnaProba\bin\Debug\netcoreapp3.1\generalnaProba.pdb
+C:\Users\lazar\source\repos\generalnaProba\obj\Debug\netcoreapp3.1\generalnaProba.csprojAssemblyReference.cache
+C:\Users\lazar\source\repos\generalnaProba\obj\Debug\netcoreapp3.1\generalnaProba.AssemblyInfoInputs.cache
+C:\Users\lazar\source\repos\generalnaProba\obj\Debug\netcoreapp3.1\generalnaProba.AssemblyInfo.cs
+C:\Users\lazar\source\repos\generalnaProba\obj\Debug\netcoreapp3.1\generalnaProba.csproj.CoreCompileInputs.cache
+C:\Users\lazar\source\repos\generalnaProba\obj\Debug\netcoreapp3.1\generalnaProba.dll
+C:\Users\lazar\source\repos\generalnaProba\obj\Debug\netcoreapp3.1\generalnaProba.pdb
+C:\Users\lazar\source\repos\generalnaProba\obj\Debug\netcoreapp3.1\generalnaProba.genruntimeconfig.cache

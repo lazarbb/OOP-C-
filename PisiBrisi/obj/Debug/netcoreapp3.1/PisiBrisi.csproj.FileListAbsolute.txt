@@ -1,0 +1,13 @@
+C:\Users\lazar\source\repos\PisiBrisi\bin\Debug\netcoreapp3.1\PisiBrisi.exe
+C:\Users\lazar\source\repos\PisiBrisi\bin\Debug\netcoreapp3.1\PisiBrisi.deps.json
+C:\Users\lazar\source\repos\PisiBrisi\bin\Debug\netcoreapp3.1\PisiBrisi.runtimeconfig.json
+C:\Users\lazar\source\repos\PisiBrisi\bin\Debug\netcoreapp3.1\PisiBrisi.runtimeconfig.dev.json
+C:\Users\lazar\source\repos\PisiBrisi\bin\Debug\netcoreapp3.1\PisiBrisi.dll
+C:\Users\lazar\source\repos\PisiBrisi\bin\Debug\netcoreapp3.1\PisiBrisi.pdb
+C:\Users\lazar\source\repos\PisiBrisi\obj\Debug\netcoreapp3.1\PisiBrisi.csprojAssemblyReference.cache
+C:\Users\lazar\source\repos\PisiBrisi\obj\Debug\netcoreapp3.1\PisiBrisi.AssemblyInfoInputs.cache
+C:\Users\lazar\source\repos\PisiBrisi\obj\Debug\netcoreapp3.1\PisiBrisi.AssemblyInfo.cs
+C:\Users\lazar\source\repos\PisiBrisi\obj\Debug\netcoreapp3.1\PisiBrisi.csproj.CoreCompileInputs.cache
+C:\Users\lazar\source\repos\PisiBrisi\obj\Debug\netcoreapp3.1\PisiBrisi.dll
+C:\Users\lazar\source\repos\PisiBrisi\obj\Debug\netcoreapp3.1\PisiBrisi.pdb
+C:\Users\lazar\source\repos\PisiBrisi\obj\Debug\netcoreapp3.1\PisiBrisi.genruntimeconfig.cache

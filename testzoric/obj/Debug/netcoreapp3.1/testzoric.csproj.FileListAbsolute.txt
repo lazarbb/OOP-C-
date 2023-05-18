@@ -1,0 +1,13 @@
+C:\Users\lazar\source\repos\testzoric\bin\Debug\netcoreapp3.1\testzoric.exe
+C:\Users\lazar\source\repos\testzoric\bin\Debug\netcoreapp3.1\testzoric.deps.json
+C:\Users\lazar\source\repos\testzoric\bin\Debug\netcoreapp3.1\testzoric.runtimeconfig.json
+C:\Users\lazar\source\repos\testzoric\bin\Debug\netcoreapp3.1\testzoric.runtimeconfig.dev.json
+C:\Users\lazar\source\repos\testzoric\bin\Debug\netcoreapp3.1\testzoric.dll
+C:\Users\lazar\source\repos\testzoric\bin\Debug\netcoreapp3.1\testzoric.pdb
+C:\Users\lazar\source\repos\testzoric\obj\Debug\netcoreapp3.1\testzoric.csprojAssemblyReference.cache
+C:\Users\lazar\source\repos\testzoric\obj\Debug\netcoreapp3.1\testzoric.AssemblyInfoInputs.cache
+C:\Users\lazar\source\repos\testzoric\obj\Debug\netcoreapp3.1\testzoric.AssemblyInfo.cs
+C:\Users\lazar\source\repos\testzoric\obj\Debug\netcoreapp3.1\testzoric.csproj.CoreCompileInputs.cache
+C:\Users\lazar\source\repos\testzoric\obj\Debug\netcoreapp3.1\testzoric.dll
+C:\Users\lazar\source\repos\testzoric\obj\Debug\netcoreapp3.1\testzoric.pdb
+C:\Users\lazar\source\repos\testzoric\obj\Debug\netcoreapp3.1\testzoric.genruntimeconfig.cache
